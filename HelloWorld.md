@@ -1,7 +1,5 @@
 ---
-title: "Untitled"
-author: "Teresa"
-date: "Thursday, November 06, 2014"
+title: "HelloWorld.md"
 output: html_document
 ---
 
@@ -20,5 +18,5 @@ plot(cars)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-## This is a markdown file
 
+## This is a markdown file 
